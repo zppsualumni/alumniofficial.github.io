@@ -7,6 +7,7 @@
     <header class="bg-maroon text-white">
         <div class="mt-5"></div>
         <h1>ABOUT <br> <span>[ ZPPSUAAI ]</span></h1>
+    </header>
 
     <style>
         p > b {
